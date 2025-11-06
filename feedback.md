@@ -1,4 +1,4 @@
-## CALIFICACIÓN FINAL: 73/100 - APROBADO ✅
+## CALIFICACIÓN FINAL: 73/100 - PROMOCIONADO ✅
 
 ### Resumen Ejecutivo
 Pereyra es el alumno con **mejor calificación del grupo**. Implementó correctamente React Router, creó custom hooks funcionales, y tiene una buena estructura general. Sus principales problemas son: Context API mal implementado (confunde autenticación con carga de datos), falta el componente Login funcional, y algunas funcionalidades incompletas. **Está muy cerca de aprobar**.
